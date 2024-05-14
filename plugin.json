@@ -1,8 +1,8 @@
 {
-    "id": "ml-assisted-labeling",
-    "version": "4.1.1",
+    "id": "ml-assisted-labeling-mtp",
+    "version": "1.0.0",
     "meta": {
-        "label": "ML-assisted Labeling",
+        "label": "ML-assisted Labeling -- MTP",
         "description": "Label tabular, image, audio and text data efficiently with Active Learning",
         "author": "Dataiku (Alexandre ABRAHAM, Andrey AVTOMONOV, Henri CHABERT)",
         "icon": "icon-tags",
