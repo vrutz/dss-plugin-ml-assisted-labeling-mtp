@@ -1,3 +1,5 @@
+# USED FOR MTP ONLY
+
 # ML Assisted Labeling Plugin  
 
 This plugin lets you label your text, tabular, image or audio data efficiently by leveraging webapps and active learning recipes.
